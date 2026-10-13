@@ -4,7 +4,7 @@ import org.jetbrains.kotlin.gradle.dsl.KotlinJvmProjectExtension
 
 plugins {
     alias(libs.plugins.kotlin) apply false
-    id("com.android.library") version "9.4.1" apply false
+    id("com.android.library") version "9.3.3" apply false
 }
 
 
